@@ -1,6 +1,12 @@
 import javax.swing.*;
 import java.awt.*;
 
+/**
+ * RecursiveGui is a simple GUI application that allows users to select a directory,
+ * start a recursive process, and quit the application.
+ * It uses Swing components to create the GUI layout and handle user interactions.
+ */
+
 public class RecursiveGui extends JFrame
 {
     JPanel mainPanel;
